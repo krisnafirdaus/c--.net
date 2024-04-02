@@ -1,0 +1,15 @@
+/Users/krisnafirdaus/Projects/krisna-test-3/krisna-test-3/bin/Debug/net7.0/krisna-test-3
+/Users/krisnafirdaus/Projects/krisna-test-3/krisna-test-3/bin/Debug/net7.0/krisna-test-3.deps.json
+/Users/krisnafirdaus/Projects/krisna-test-3/krisna-test-3/bin/Debug/net7.0/krisna-test-3.runtimeconfig.json
+/Users/krisnafirdaus/Projects/krisna-test-3/krisna-test-3/bin/Debug/net7.0/krisna-test-3.dll
+/Users/krisnafirdaus/Projects/krisna-test-3/krisna-test-3/bin/Debug/net7.0/krisna-test-3.pdb
+/Users/krisnafirdaus/Projects/krisna-test-3/krisna-test-3/obj/Debug/net7.0/krisna-test-3.csproj.AssemblyReference.cache
+/Users/krisnafirdaus/Projects/krisna-test-3/krisna-test-3/obj/Debug/net7.0/krisna-test-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krisnafirdaus/Projects/krisna-test-3/krisna-test-3/obj/Debug/net7.0/krisna-test-3.AssemblyInfoInputs.cache
+/Users/krisnafirdaus/Projects/krisna-test-3/krisna-test-3/obj/Debug/net7.0/krisna-test-3.AssemblyInfo.cs
+/Users/krisnafirdaus/Projects/krisna-test-3/krisna-test-3/obj/Debug/net7.0/krisna-test-3.csproj.CoreCompileInputs.cache
+/Users/krisnafirdaus/Projects/krisna-test-3/krisna-test-3/obj/Debug/net7.0/krisna-test-3.dll
+/Users/krisnafirdaus/Projects/krisna-test-3/krisna-test-3/obj/Debug/net7.0/refint/krisna-test-3.dll
+/Users/krisnafirdaus/Projects/krisna-test-3/krisna-test-3/obj/Debug/net7.0/krisna-test-3.pdb
+/Users/krisnafirdaus/Projects/krisna-test-3/krisna-test-3/obj/Debug/net7.0/krisna-test-3.genruntimeconfig.cache
+/Users/krisnafirdaus/Projects/krisna-test-3/krisna-test-3/obj/Debug/net7.0/ref/krisna-test-3.dll
